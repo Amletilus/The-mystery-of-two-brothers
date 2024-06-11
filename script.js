@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const animationElement = document.getElementById("animation");
 
     // Массивы с ключевыми словами
-    const brotherWords = ["брат", "брата", "брату", "другого", "второго","братьев"];
+    const brotherWords = ["брат", "брата", "брату", "другого", "второго","братьев","другой"];
     const locationWords = ["сокровище", "сокровища", "ловушки", "ловушка", "сокровищами", "сокровищем"];
     const indicationWords = ["куда", "какую", "которую", "какая"];
     const doorsWords = ["дверь", "дверью"];
